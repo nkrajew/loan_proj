@@ -43,7 +43,7 @@ For this project, I created 4 different models and evaluated them based on **acc
 ## Model Performance
 The baseline Logistic Regression model outperformed the other models on the test sets.
 
-![alt text](https://github.com/nkrajew/loan_proj/blob/master/images/results_resize.PNG "Results")
+![alt text](https://github.com/nkrajew/loan_proj/blob/master/images/results.PNG "Results")
 
 ## Potential Next Steps
 - Look for more features to engineer
